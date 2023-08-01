@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="redbull">#4D5DBA</color>
+    <color name="mercedes">#A5A4A4</color>
+    <color name="aston">#06C1B0</color>
+    <color name="ferrari">#E63F3F</color>
+    <color name="mclaren">#FFAA2D</color>
+    <color name="alpine">#35A1F6</color>
+</resources>
